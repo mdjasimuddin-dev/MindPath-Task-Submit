@@ -5,8 +5,8 @@ const Bannar = () => {
     <div className="grid grid-cols-3 gap-10">
       <div className="bg-[#d8f6e8] grid col-span-2">
         <div className="flex">
-          <div className="flex flex-col flex-1 p-10 justify-center space-y-3">
-            <h1 className="text-[#004B50] lg:text-2xl font-publicSans">
+          <div className="flex flex-col flex-1 p-5 lg:p-10 justify-center space-y-3">
+            <h1 className="text-[#004B50] lg:text-xl font-publicSans">
               Welcome back 👋 Jaydon Frankie
             </h1>
             <p className="text-xs">
